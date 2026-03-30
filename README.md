@@ -78,7 +78,7 @@ task-tracker/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <ссылка на ваш репозиторий>
+git clone https://github.com/alinaaved/task_tracker
 cd task-tracker
 ```
 
